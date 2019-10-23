@@ -1,4 +1,4 @@
-# CyberBullying
+# CyberBullying : related to social media
 
 Requirements for the Web Frontend: Node.js
 
